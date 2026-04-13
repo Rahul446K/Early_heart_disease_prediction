@@ -20,7 +20,7 @@ def heart_prediction(user_input):
 def main():
 
     # Title
-    st.markdown("<h1 style='text-align: center; color: #ff4d6d;'>❤️ Heart Disease Prediction</h1>", unsafe_allow_html=True)
+    st.markdown("<h1 style='text-align: center; color: #ff4d6d;'>❤️ Heart Disease Prediction Web App</h1>", unsafe_allow_html=True)
     st.markdown("<h4 style='text-align: center; color: #adb5bd;'>ML-based Health Assistant</h4>", unsafe_allow_html=True)
 
     # Divider Line
